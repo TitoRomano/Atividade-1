@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-shadow: 6px 10px 5px grey;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
